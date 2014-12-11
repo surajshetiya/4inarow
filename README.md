@@ -1,4 +1,5 @@
-4inarow
+4 in a row
 =======
 
-OPEN GL game 4 in a row
+The description to the game is accessible at http://www.mathsisfun.com/games/connect4.html
+
